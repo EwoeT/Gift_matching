@@ -1,0 +1,2 @@
+# Gift_matching
+Santa Gift Matching Challenge is an optimization problem which was orig-inally posted as a kaggle competion in 2017.  The problem can be described as avariation of the assignment problem.  In the problem, Santa clause has 1000 gifttypes he wants to distribute to 1000000 children.  For each gift type, there exist1000 of them.  The challenge provides 2 datasets; the childwishlist dataset andthe giftgoodkids dataset
