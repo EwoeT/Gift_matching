@@ -4,5 +4,5 @@ Santa Gift Matching Challenge is an optimization problem which was orig-inally p
 Constraints:<br/>
 * 0.5% of children are triplets
 * 4% of children are twins
-* Each set of triplets should receive the san]me gift
+* Each set of triplets should receive the same gift
 * Each pair of twins should receive the same gift
